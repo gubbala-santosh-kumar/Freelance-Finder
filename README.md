@@ -4,6 +4,7 @@
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, React.js, Node.js, MongoDB
 
 ---
+![image](https://github.com/user-attachments/assets/39d272da-43da-4ed2-8c0f-007e959fe44d)
 
 ## Overview
 
